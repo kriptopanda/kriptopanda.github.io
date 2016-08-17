@@ -6,7 +6,8 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 1447,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'Panda Dice',
+  app_name: '			<img class="panda" src="https://u.pomf.is/bafzyz.png">
+',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',  // <----- EDIT ME!
