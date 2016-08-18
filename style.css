@@ -2,6 +2,7 @@ body {
     margin-top: 20px;
     background-image: url("http://www.franchiseopportunitiesjournal.com/wp-content/uploads/2014/01/bigstock-Close-Up-D-Illustration-Of-Pa-55369769.jpg");
 background-color: #cccccc;
+ background-attachment: fixed;
 }
 
 .navbar .navbar-brand {
