@@ -1696,7 +1696,7 @@ var MyBetsTabContent = React.createClass({
     return el.div(
       null,
       el.table(
-        {className: 'table'},
+        {className: 'table table-sm table-inverse'},
         el.thead(
           null,
           el.tr(
